@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:  rgb(216, 238, 255);
+  display: flex;
+  min-height: 100vh;
+  flex-wrap: wrap;
+}
+*{
+box-sizing: border-box;
+}
+
+.container1{
+max-width: 700px;
+margin: auto;
+padding: 20px;
+}
+section{
+ border: 2px solid #007bff;
+ border-radius: 15px;
+ padding: 10px;
+ margin: 10px;
+}
+footer{
+  background: black;
+  color: white;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  align-self: flex-end;
+}
