@@ -1,0 +1,39 @@
+*{
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+html{
+  height: 100%;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  background-color: rgb(216, 238, 255);
+}
+.celda1{
+  position: relative;
+  border-radius: 4%;
+  border-top: 1%;
+  border-bottom: 1%;
+  height: 100%;
+  background-color: #ffd992;
+}
+
+.Celda{
+  color: black;
+  font-weight: bold;
+  background-color: #ffd992;
+  
+}
+
+footer{
+  background: black;
+  color: white;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  margin-top: auto;
+}
