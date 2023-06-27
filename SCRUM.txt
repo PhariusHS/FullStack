@@ -1,0 +1,41 @@
+﻿SCRUM
+Product Owner (Dueño del producto): Ezequiel Ricca
+Scrum Master: Nicolas Olmos 
+Development team member (Miembros de equipos): Estudiantes
+Producto: El juego del Gato
+
+
+SPRINT:
+¿Qué es lo que vamos a hacer? 
+Un juego interactivo para las clases de matemática en el nivel primario. Con este juego los estudiantes aprenderán y repasarán de una manera entretenida el cómo multiplicar.
+
+
+¿Cómo lo vamos a hacer?
+* Se dialogó sobre el lenguaje y editor de texto a utilizar.
+* Se realizó un boceto de la idea principal
+* Se inició con el código
+* Se realizó el formato en HTML, el diseño en CSS y Bootstrap(Frontend)
+tablas, imágenes, texto 
+* Parte lógica, en donde se utilizó JavaScript, creando la interacción del usuario con la aplicación(Backend). Se programó el funcionamiento de botones y la creación de matrices con el objetivo de comprobar el ganador.
+* Base de datos:
+* Se estableció un servidor local a través de XAMPP (herramienta de software libre para ejecutar un servidor Apache de forma local “localhost” sin la necesidad de internet) llevando a cabo la conexión por medio de php ( lenguaje de programación que permite el desarrollo web o aplicaciones web dinámicas) y dentro del mismo se adjuntó la parte de Frontend (formulario: HTML y CSS).
+
+
+
+
+SPRINT RETROSPECTIVA:
+
+
+Semanalmente nuestro Scrum Master evaluaba como el equipo fue trabajando y verificaba cómo avanzaba el producto. 
+
+
+* ¿Qué ha salido bien?
+El proyecto en sí, ya que funciona tal cual como se había imaginado y planificado. 
+* ¿Qué mejoras se van a realizar?
+Las mejoras a realizar: (propuestas del scrum master)
+* Que se pueda empatar.
+* Que se pueda jugar de forma simultánea con la computadora o no.
+* ¿Qué NO ha ido bien?
+Hubo fallos en el proceso, como lo mencionado anteriormente en la propuesta del Scrum Master, pero se pudieron superar y corregir exitosamente.
+* ¿Cómo se sintieron durante el proceso?
+Los estudiantes en el proceso de construcción del programa se sintieron frustrados. Por lo tanto, a la hora de terminarlo sintieron satisfacción al lograr lo esperado.
