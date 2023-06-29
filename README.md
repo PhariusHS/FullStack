@@ -13,3 +13,8 @@ Esta pagina web fue diseñada con la  utilización de muchos colores y facil int
 COMO ABRIR LA BASE DE DATOS????
 ---------------------------------
 TUTORIAL: https://drive.google.com/file/d/1rLutQkvXOkUjoOPfunNq9ho5j7bpgLMH/view?usp=sharing
+
+---------------------------------
+COMO ABRIR LA PAGINA WEB????
+---------------------------------
+CLICK AQUÍ: https://phariushs.github.io/FullStack/Frontend/primerpag.html
