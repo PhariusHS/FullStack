@@ -63,13 +63,13 @@
                 <div class="collapse navbar-collapse" id="navbarS">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                         <a href="https://phariushs.github.io/FullStack/primerpag.html" class="nav-link">Inicio</a>
+                         <a href="https://phariushs.github.io/FullStack/Frontend/primerpag.html" class="nav-link">Inicio</a>
                         </li>
                         <li class="nav-item">
-                         <a href="https://phariushs.github.io/FullStack/Juegodelgato.html" class="nav-link">Instrucciones</a>
+                         <a href="https://phariushs.github.io/FullStack/Frontend/Juegodelgato.html" class="nav-link">Instrucciones</a>
                         </li>
                         <li class="nav-item">
-                         <a href="https://phariushs.github.io/FullStack/index.html"  class="nav-link ">Jugar</a>
+                         <a href="https://phariushs.github.io/FullStack/Frontend/index.html"  class="nav-link ">Jugar</a>
                         </li>
                         <li class="nav-item">
                          <a href="http://localhost/juegodelgato/" class="nav-link disabled">Feedback</a>
