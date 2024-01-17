@@ -1,3 +1,8 @@
+**IMPORTANTE**
+Este repositorio fue solo a modo de entrega para un proyecto el desarrollo se hizo de manera privada :D
+
+---------------------------------
+
 Esta aplicación web esta hecha con el fin  de fomentar las matematicas en  un juego, "El juego del gato".
 
 En la  sección "Instrucciones" tendras todas las reglas y formas de jugar el juego.
